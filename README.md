@@ -1,6 +1,6 @@
 # <ins> EDUCACIÓN </ins>
 ## Ingeniero Mecánico, PUCV
-## Ingeniero Civil mecánico, USACH
+## Ingeniero Civil Mecánico, USACH
 ## Master of Engineering Management, UAndes
 ## Master Simulación Numérica, U Malaga
 
